@@ -18,7 +18,7 @@ npm i babel-plugin-dev-debug
 
 ## Usage
 
-1. add babel-plugin-dev-debug plugin to babel.config.js
+### add babel-plugin-dev-debug plugin to babel.config.js
 
 ```js
 // babel.config.js
@@ -27,7 +27,7 @@ module.exports = {
 };
 ```
 
-2. in you code
+### in you code
 
 ```js
 if (DEBUG) {

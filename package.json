@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cuixiaorui/babel-plugin-dev-debug.git"
