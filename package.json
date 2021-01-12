@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-dev-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an babel plugin that for dev debug",
   "main": "index.js",
   "scripts": {
