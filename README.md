@@ -31,8 +31,8 @@ module.exports = {
 
 ```js
 if (DEBUG) {
-  // for debug
-  // must be removed in production env
+  // write something for debug
+  // removed in production env
   const a = 10;
   const b = 20;
   console.log(a + b);
