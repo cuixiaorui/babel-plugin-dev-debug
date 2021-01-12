@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-dev-debug",
+  "version": "1.0.0",
+  "description": "an babel plugin that for dev debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuixiaorui/babel-plugin-dev-debug.git"
+  },
+  "keywords": [
+    "debug",
+    "babel-plugin",
+    "dev"
+  ],
+  "author": "cui_xiaorui@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuixiaorui/babel-plugin-dev-debug/issues"
+  },
+  "homepage": "https://github.com/cuixiaorui/babel-plugin-dev-debug#readme"
+}
