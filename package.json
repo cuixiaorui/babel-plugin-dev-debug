@@ -4,7 +4,7 @@
   "description": "an babel plugin that for dev debug",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/cuixiaorui/babel-plugin-dev-debug/issues"
   },
-  "homepage": "https://github.com/cuixiaorui/babel-plugin-dev-debug#readme"
+  "homepage": "https://github.com/cuixiaorui/babel-plugin-dev-debug#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "jest": "^26.6.3"
+  }
 }
