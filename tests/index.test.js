@@ -4,7 +4,7 @@ const inputCode = `
         const a = 10;
         const b = 20;
 
-        if("DEBUG"){
+        if(DEBUG){
             console.log("heihei")
         }
         `;
